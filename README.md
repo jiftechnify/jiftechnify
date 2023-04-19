@@ -15,9 +15,9 @@ Website: https://c-stellar.net/
 
 ### 💠 Bluesky
 
-- [Bluesky Follow Back All](https://github.com/jiftechnfy/bsky-follow-back-all): A tiny web app for following back all of your followers on Bluesky Social.
+- [Bluesky Follow Back All](https://github.com/jiftechnify/bsky-follow-back-all): A tiny web app for following back all of your followers on Bluesky Social.
     - App: https://jiftechnify.github.io/bsky-follow-back-all
-- [Blue Mirage](https://github.com/jiftechnfy/blue-mirage): A tiny web app to "copy" the someone else's follow list on Bluesky Social.
+- [Blue Mirage](https://github.com/jiftechnify/blue-mirage): A tiny web app to "copy" the someone else's follow list on Bluesky Social.
     - App: https://jiftechnify.github.io/blue-mirage
 
 ### 🔧 Other Tools / Libraries
