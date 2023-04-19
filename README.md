@@ -1,4 +1,4 @@
-# Takumi Fujiwara (jiftechnify)
+# jiftechnify
 
 🇯🇵Japanese, 👨‍💻Full-stack™ SWE, 🥁Amature Percussionist, 🎹Rhythm Game Mania.
 
