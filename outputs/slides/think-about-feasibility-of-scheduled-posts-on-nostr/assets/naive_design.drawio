@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="YQlereqFKNG88Uhl_2Cm" name="ページ1">
+        <mxGraphModel dx="1671" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="48" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="1290" y="480" width="173" height="295" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="リレー" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;strokeWidth=2;" parent="48" vertex="1">
+                    <mxGeometry x="26.5" y="240" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;fontSize=40;fillColor=none;" parent="48" vertex="1">
+                    <mxGeometry width="173" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="690" y="480" width="600" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="49" vertex="1">
+                    <mxGeometry x="80" width="188.6" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="予約投稿システム&lt;br style=&quot;font-size: 32px;&quot;&gt;サーバ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;strokeWidth=2;" parent="49" vertex="1">
+                    <mxGeometry x="30" y="240" width="280" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="endArrow=classic;html=1;fontSize=24;strokeWidth=6;" parent="49" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="236" y="129.99999999999997" as="sourcePoint"/>
+                        <mxPoint x="580" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="2." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="49" vertex="1">
+                    <mxGeometry x="390" y="80" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontSize=20;" vertex="1" parent="49">
+                    <mxGeometry x="273.25" y="140" width="47.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="content: &quot;pura vida&quot;,&lt;br&gt;created_at: &amp;lt;現在時刻&amp;gt;,&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;sig: ???&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="49">
+                    <mxGeometry x="326" y="140" width="274" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="254" y="500" width="340" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="50" vertex="1">
+                    <mxGeometry x="65" width="210" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="予約投稿システム&lt;br style=&quot;font-size: 32px;&quot;&gt;クライアント" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;strokeWidth=2;" parent="50" vertex="1">
+                    <mxGeometry x="30" y="220" width="280" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="ユーザ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="154" y="700" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="179" y="601.37" width="50" height="93.635" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=40;fillColor=none;strokeWidth=2;" parent="54" vertex="1">
+                    <mxGeometry width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=40;rotation=-90;fillColor=none;strokeWidth=2;" parent="54" vertex="1">
+                    <mxGeometry x="5" y="50" width="40" height="47.27" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="endArrow=classic;html=1;fontSize=24;strokeWidth=6;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="554" y="610" as="sourcePoint"/>
+                        <mxPoint x="750" y="610" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="56" value="1." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="560" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="「金曜朝6時に&lt;br&gt;&quot;pura vida&quot;と投稿」" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="535" y="622.5" width="210" height="55" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

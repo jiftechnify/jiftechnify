@@ -1,0 +1,118 @@
+<mxfile host="65bd71144e">
+    <diagram id="YQlereqFKNG88Uhl_2Cm" name="ページ1">
+        <mxGraphModel dx="1609" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="48" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="1290" y="480" width="173" height="295" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="リレー" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;strokeWidth=2;" parent="48" vertex="1">
+                    <mxGeometry x="26.5" y="240" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;fontSize=40;fillColor=none;" parent="48" vertex="1">
+                    <mxGeometry width="173" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="690" y="470" width="600" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="49" vertex="1">
+                    <mxGeometry x="250" width="188.6" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="予約投稿システム&lt;br style=&quot;font-size: 32px;&quot;&gt;サーバ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;strokeWidth=2;" parent="49" vertex="1">
+                    <mxGeometry x="204.3" y="240" width="280" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="endArrow=classic;html=1;fontSize=24;strokeWidth=6;" parent="49" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="130" as="sourcePoint"/>
+                        <mxPoint x="580" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="4." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="49" vertex="1">
+                    <mxGeometry x="470" y="80" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="3." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="49" vertex="1">
+                    <mxGeometry x="20" y="80" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="content: &quot;pura vida&quot;,&lt;br&gt;created_at: &amp;lt;金曜朝6時&amp;gt;,&lt;br&gt;sig: &amp;lt;投稿者による署名&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;" parent="49" vertex="1">
+                    <mxGeometry x="-40" y="140" width="274" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontSize=20;" vertex="1" parent="49">
+                    <mxGeometry x="474" y="140" width="47.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="&lt;font color=&quot;#ff3333&quot;&gt;転送&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="49">
+                    <mxGeometry x="467.75" y="210" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pen;fontSize=24;fontColor=#FF3333;" vertex="1" parent="49">
+                    <mxGeometry x="500.5999999999999" y="180" width="29.4" height="29.7" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="254" y="500" width="392.9" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="50" vertex="1">
+                    <mxGeometry x="65" width="210" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="予約投稿システム&lt;br style=&quot;font-size: 32px;&quot;&gt;クライアント" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;strokeWidth=2;" parent="50" vertex="1">
+                    <mxGeometry x="30" y="220" width="280" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontSize=20;" parent="50" vertex="1">
+                    <mxGeometry x="336" y="120" width="47.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22verticalLabelPosition%3Dbottom%3Bhtml%3D1%3BverticalAlign%3Dtop%3Balign%3Dcenter%3BstrokeColor%3Dnone%3BfillColor%3D%2300BEF2%3Bshape%3Dmxgraph.azure.code_file%3BpointerEvents%3D1%3BfontSize%3D20%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22179%22%20y%3D%22375%22%20width%3D%2247.5%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22verticalLabelPosition%3Dbottom%3Bhtml%3D1%3BverticalAlign%3Dtop%3Balign%3Dcenter%3BstrokeColor%3Dnone%3BfillColor%3D%2300BEF2%3Bshape%3Dmxgraph.azure.code_file%3BpointerEvents%3D1%3BfontSize%3D20%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22179%22%20y%3D%22375%22%20width%3D%2247.5%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pen;fontSize=24;fontColor=#FF3333;" vertex="1" parent="50">
+                    <mxGeometry x="363.5" y="160" width="29.4" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="ユーザ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="154" y="700" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="179" y="601.37" width="50" height="93.635" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=40;fillColor=none;strokeWidth=2;" parent="54" vertex="1">
+                    <mxGeometry width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=40;rotation=-90;fillColor=none;strokeWidth=2;" parent="54" vertex="1">
+                    <mxGeometry x="5" y="50" width="40" height="47.27" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="endArrow=classic;html=1;fontSize=24;strokeWidth=6;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="554" y="610" as="sourcePoint"/>
+                        <mxPoint x="920" y="610" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="76" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=24;fontColor=#FF3333;size=30;position=0.3;position2=0.35;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="290" width="600" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="179" y="370" width="280" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontSize=20;" vertex="1" parent="81">
+                    <mxGeometry y="5" width="47.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="content: &quot;pura vida&quot;,&lt;br&gt;created_at: &lt;font color=&quot;#ff3333&quot;&gt;&amp;lt;金曜朝6時&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="81">
+                    <mxGeometry x="54" width="226" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="1." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="330" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="" style="endArrow=classic;html=1;fontSize=24;strokeWidth=6;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="459" y="399.41" as="sourcePoint"/>
+                        <mxPoint x="565" y="399.41" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="85" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="375" width="47.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22verticalLabelPosition%3Dbottom%3Bhtml%3D1%3BverticalAlign%3Dtop%3Balign%3Dcenter%3BstrokeColor%3Dnone%3BfillColor%3D%2300BEF2%3Bshape%3Dmxgraph.azure.code_file%3BpointerEvents%3D1%3BfontSize%3D20%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22179%22%20y%3D%22375%22%20width%3D%2247.5%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22verticalLabelPosition%3Dbottom%3Bhtml%3D1%3BverticalAlign%3Dtop%3Balign%3Dcenter%3BstrokeColor%3Dnone%3BfillColor%3D%2300BEF2%3Bshape%3Dmxgraph.azure.code_file%3BpointerEvents%3D1%3BfontSize%3D20%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22179%22%20y%3D%22375%22%20width%3D%2247.5%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FF3333;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pen;fontSize=24;fontColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="410" width="29.4" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="2." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+                    <mxGeometry x="646.9" y="330" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="&lt;font color=&quot;#ff3333&quot;&gt;署名&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="375" width="68.7" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
