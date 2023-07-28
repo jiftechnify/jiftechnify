@@ -1,6 +1,6 @@
 # jiftechnify
 
-🇯🇵Japanese, 👨‍💻Full-stack™ SWE, 🥁Amature Percussionist, 🎹Rhythm Game Mania, 🎒Travel Lover.
+🇯🇵Japanese, 👨‍💻Full-stack™ SWE, 🥁Amateur Percussionist, 🎹Rhythm Game Mania, 🎒Travel Lover.
 
 a.k.a. かすてらふぃ.
 
