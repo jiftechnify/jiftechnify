@@ -2,25 +2,20 @@
 
 🇯🇵Japanese, 👨‍💻Full-stack™ SWE, 🥁Amateur Percussionist, 🎹Rhythm Game Mania, 🎒Travel Lover.
 
-a.k.a. かすてらふぃ.
+Seeking possibilities of [Nostr protocol](https://github.com/nostr-protocol/nostr).
 
-Website: https://c-stellar.net/
+a.k.a. かすてらふぃ.  Website: https://c-stellar.net/
 
 ## Works
-### 🦤 Nostr
+### 🦤 Nostr related
 
 - [nostr-fetch](https://github.com/jiftechnify/nostr-fetch): A utility library that allows JS/TS apps to effortlessly fetch past events from Nostr relays.
 - [Nosaray](https://github.com/jiftechnify/nosaray): Wayback Machine for Nostr. Based on nostr-fetch.
     - App: https://nosaray.vercel.app
+- [nostatus](https://github.com/jiftechnify/nostatus): A Nostr web client specialized in browsing user statuses (NIP-38).
+    - App: https://nostatus.vercel.app
 
-### 💠 Bluesky
-
-- [Bluesky Follow Back All](https://github.com/jiftechnify/bsky-follow-back-all): A tiny web app for following back all of your followers on Bluesky Social.
-    - App: https://jiftechnify.github.io/bsky-follow-back-all
-- [Blue Mirage](https://github.com/jiftechnify/blue-mirage): A tiny web app to "copy" the someone else's follow list on Bluesky Social.
-    - App: https://jiftechnify.github.io/blue-mirage
-
-### 🔧 Other Tools / Libraries
+### 🔧 Tools / Libraries
 
 #### 🟦 TypeScript
 - [eject-enum](https://github.com/jiftechnify/eject-enum): Ejects enums from your TypeScript codebases.
