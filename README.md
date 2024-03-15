@@ -14,6 +14,10 @@ a.k.a. かすてらふぃ.  Website: https://c-stellar.net/
     - App: https://nosaray.vercel.app
 - [nostatus](https://github.com/jiftechnify/nostatus): A Nostr web client specialized in browsing user statuses (NIP-38).
     - App: https://nostatus.vercel.app
+- [vscode-nostr-client](https://github.com/jiftechnify/vscode-nostr-client): A Nostr client as a VSCode extension.
+    - App: https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client
+- [nosdump](https://github.com/jiftechnify/nosdump): A CLI tool which dumps events stored in Nostr relays
+- [strfrui](https://github.com/jiftechnify/strfrui): A framework for writing strfry's event sifter (write policy) plugin in Go.
 
 ### 🔧 Tools / Libraries
 
