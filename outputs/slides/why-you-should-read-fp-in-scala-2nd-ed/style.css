@@ -1,0 +1,4 @@
+pre, code {
+  font-variant-ligatures: "normal";
+  font-feature-settings: "liga" 0, "calt" 0;
+}
