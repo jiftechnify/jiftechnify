@@ -23,15 +23,21 @@ a.k.a. かすてらふぃ.  Website: https://c-stellar.net/
 
 #### 🟦 TypeScript
 - [eject-enum](https://github.com/jiftechnify/eject-enum): Ejects enums from your TypeScript codebases.
-- [ts-souko](https://github.com/jiftechnify/ts-souko): Type-safe Storage wrapper for TypeScript.
-    - Related Article: [型安全Storageの実装を通して学ぶ! TypeScriptの型](https://zenn.dev/jiftechnify/articles/2489f4103918a2)
+    - Related Article: [TypeScriptコードから一撃でenumを「追放」するツールを作った]
 
 #### 🦀 Rust
 - [valq](https://github.com/jiftechnify/valq): Rust macros for querying and extracting value from structured data by JavaScript-like syntax.
-    - Related Article: [RustでJSONから値をゆるりと取り出すマクロを書いた話](https://zenn.dev/jiftechnify/articles/rust-macro-for-query-json)
+    - Related Articles:
+        - [RustでJSONから値をゆるりと取り出すマクロを書いた話](for v0.1.0, includes tutorial for writing declarative macros)
+        - [RustでJSONから値をゆるりと取り出すマクロをもっと便利にしてみた話](for v0.3.0)
 
 #### 🪜 Scala
 - [scalatin](https://github.com/jiftechnify/scalatin): Simple monadic input scanner library for Scala. (WIP)
+
+[TypeScriptコードから一撃でenumを「追放」するツールを作った]: https://zenn.dev/jiftechnify/articles/eject-enums-from-typescript-codebase
+[型安全Storageの実装を通して学ぶ! TypeScriptの型]: https://zenn.dev/jiftechnify/articles/2489f4103918a2
+[RustでJSONから値をゆるりと取り出すマクロを書いた話]: https://zenn.dev/jiftechnify/articles/rust-macro-for-query-json
+[RustでJSONから値をゆるりと取り出すマクロをもっと便利にしてみた話]: https://zenn.dev/jiftechnify/articles/rust-macro-for-query-json-upgraded
 
 #### ⚡️ Zig
 - [zoi](https://github.com/jiftechnify/zoi): A QOI ("Quite OK Image Format") encoder/decoder implementation written in Zig.
@@ -41,4 +47,3 @@ a.k.a. かすてらふぃ.  Website: https://c-stellar.net/
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiftechnify&theme=nord&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiftechnify&hide=html,c,c%2B%2B,css&theme=nord)
-
